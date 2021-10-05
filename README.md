@@ -47,9 +47,7 @@ Here are some ideas to get you started:
   <a href="https://github.com/oOMIKANOo/oOMIKANOo/">
     <img src="https://komarev.com/ghpvc/?username=oOMIKANOo" alt="oOMIKANOo" />
   </a>
-  <a href="http://twitter.com/nekonooob">
-    <img height="20" src="https://img.shields.io/twitter/follow/nekonooob?label=Twitter&logo=twitter&style=flat" />
-  </a>
+  
   <a href="https://github.com/oOMIKANOo">
     <img height="20" src="https://img.shields.io/github/followers/oOMIKANOo?label=follow&logo=github&style=flat" />
   </a>
