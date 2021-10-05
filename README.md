@@ -20,3 +20,19 @@ Here are some ideas to get you started:
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oOMIKANOo" />
 </a>
+
+<p align="left"> 
+  <a href="https://github.com/oOMIKANOo/oOMIKANOo/">
+    <img src="https://komarev.com/ghpvc/?username=oOMIKANOo" alt="oOMIKANOo" />
+  </a>
+  <a href="http://twitter.com/nekonooob">
+    <img height="20" src="https://img.shields.io/twitter/follow/nekonooob?label=Twitter&logo=twitter&style=flat" />
+  </a>
+  <a href="https://github.com/oOMIKANOo">
+    <img height="20" src="https://img.shields.io/github/followers/oOMIKANOo?label=follow&logo=github&style=flat" />
+  </a>
+  <a href="https://www.reddit.com/user/oOMIKANOo">
+    <img height="20" src="https://img.shields.io/reddit/user-karma/combined/oOMIKANOo?label=Reddit&logo=reddit&style=flat" />
+  </a>
+  
+</p>
