@@ -33,3 +33,5 @@ Here are some ideas to get you started:
   </a>
   
 </p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=oOMIKANOo)](https://github.com/oOMIKANOo/github-profile-trophy)
